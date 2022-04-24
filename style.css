@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+body{
+    background-color: azure;
+}
+.container{
+    margin-left: 38%;
+
+}
+#inputfield{
+    font-size: 25px;
+    height: 20px;
+    margin-top: -70px;
+    padding: 10px 15px;
+    padding-bottom: 10px;
+    border: 2px solid darkgoldenrod;
+    border-radius: 50px;
+    color: rgb(3, 181, 0); 
+    font-weight: 600;
+}
+#add:hover{
+    background-color: bisque;
+    border: 2px solid black;
+}
+#add{
+    padding: 4px 6px;
+    height: 50px;
+    width: 90px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    font-size: 18px;
+    background-color: aqua;
+    border-radius: 100px;
+    border: 2px solid aqua;
+    font-weight: 520;
+}
+#id{
+    margin: auto auto;
+}
+
+
+
